@@ -1,0 +1,46 @@
+body {
+    background-color: #d7cec7;
+    padding: 50px;
+    font-family: 'Playfair Display', serif;
+    margin:auto;
+  }
+h1 {
+    color: #1e392a;
+    margin:auto;
+    text-align:center;
+}
+h1:hover{
+    color: #000000
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  }
+
+.manipulated {
+    border: 2px solid black;
+}
+
+img{
+  margin:auto;
+}
+
+.prof_pic {
+    display: block;
+    margin:auto;
+}
+
+.error {
+  color: #ff0000;
+}
+
+table, th, td {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.data {
+  color: #48d269;
+}
